@@ -1,2 +1,2 @@
 # ESLint, Babel, Slideshow
-[Click here to view site](https://akadiyala12.github.io/ESLintBabelSlideshow/)
+[Click here to view site](https://akadiyala12.github.io/ESLintBabelSlideshow/BasicWebPack-slideshow)
